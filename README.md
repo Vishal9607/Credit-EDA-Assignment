@@ -11,6 +11,7 @@ Analyze consumer finance data using Exploratory Data Analysis (EDA) to improve l
 3.	Improve lending decisions.
  
 **Data**
+
 •	application_data.csv: Client info at application.
 
 •	previous_application.csv: Client’s past loan data.
