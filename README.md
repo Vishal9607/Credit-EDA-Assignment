@@ -2,6 +2,7 @@
  "At our consumer finance firm focused on urban lending, we use Exploratory Data Analysis (EDA) to identify loan applicants capable of repayment, reducing rejections due to limited credit history."
  
 **Overview**
+
 Analyze consumer finance data using Exploratory Data Analysis (EDA) to improve loan approval decisions and minimize default risks.
 
 **Objectives**
